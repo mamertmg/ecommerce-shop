@@ -11,7 +11,7 @@ import {Footer} from './components/Footer';
 
 function App() {
   return (
-    <div className='overflow-hidden p-2'>
+    <div className='overflow-hidden'>
       <Router>
         <Header/>
         <Routes>
